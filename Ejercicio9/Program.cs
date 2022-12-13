@@ -1,4 +1,4 @@
-﻿namespace Ejercicio9
+namespace Ejercicio9
 {
     class Program
     {
@@ -17,13 +17,13 @@
 
             if (option == 1)
             {
-
+                Console.WriteLine("El Resultado de sumar {0} + {1} es {2}",num1,num2,(num1+num2));
             }
             else
             {
                 if (option == 2)
                 {
-
+                    Console.WriteLine("El Resultado de sumar {0} + {1} es {2}",num1,num2,(num1*num2));
                 }
                 else
                 {
